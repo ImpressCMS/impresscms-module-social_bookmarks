@@ -1,0 +1,64 @@
+-------------------------------------------------------
+
+Das Modul funktioniert mit ImpressCMS 1.x / simple-xoops 0.8.x / XOOPS 2.0.x / 2.2.x / Xoops-Cube 2.x
+This Module works with ImpressCMS 1.x / simple-xoops 0.8.x / XOOPS 2.0.x / 2.2.x / Xoops-Cube 2.x  
+
+-------------------------------------------------------
+
+Check for an new Version:
+http://www.ImpressCMS.de or http://www.xoops-magazine.com
+
+
+
+
+
+
+
+
+Update: 09.02.2008 Version 0.3
+
+- automatische Versionsanzeige im Modul-Backend (sato-san)
+- automatic version display in the module-backend
+
+- Block-Template geändert, damit der Webmaster das Design bestimmen kann (sato-san)
+- Block Template amended so that the webmaster can determine the design of block
+
+- index-Template entfernt, wurde nicht genutzt (sato-san)
+- index Template deleted, was not used
+
+- Optionen für Einstellungen (Muki)
+- Options settings
+
+- Optionen fertig gestellt (Alfred)
+- Options completed
+
+- URL für Icons angepasst (Alfred)
+- URL for Icons adapted
+
+- Mr.Wong Icon wurde angepasst, da neues Logo (sato-san)
+- Mr.Wong icon was adapted (new logo)
+
+- URL für die Hilfe-Bilder im Backend angepasst (sato-san)
+- URL for the Help-Images in the backend adjusted
+
+- unbenutzte Dateien aufgeräumt (sato-san)
+- Unused files tidy
+
+
+
+Update: 05.01.2008 Version 0.2
+
+- Bessere Gruppenberechtigungen (sato-san)
+- Better group permissions
+
+- Der Block kann jetzt viel besser eingestellt werden (sato-san)
+- The block is now much better adjusted
+
+- Diese Datei wurde hinzugefügt (sato-san)
+- This file added
+
+
+
+
+Start: 09.12.2007 Version 0.1
+
