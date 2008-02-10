@@ -16,7 +16,7 @@ $sbconfig =& $config_handler->getConfigsByCat(0,$modsb->getVar('mid'));
 unset($module_handler);
 unset($modsb);
 
-$content .="
+$content ="
 <div style=\"border-top-style:solid; padding-top:3px; border-top-width: 1px; border-top-color: #2A4956; float: left;\">
 <script language=\"JavaScript\" type=\"text/JavaScript\">
 
