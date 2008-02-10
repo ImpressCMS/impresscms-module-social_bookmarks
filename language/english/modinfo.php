@@ -47,6 +47,7 @@ define('_MD_BOOKMARKS_LI_BLINKBITS',	'www.blinkbits.com');
 define('_MD_BOOKMARKS_LI_GNOLIA',		'ma.gnolia.com');
 define('_MD_BOOKMARKS_LI_SMARKING',		'smarking.com');
 define('_MD_BOOKMARKS_LI_NET_VOUZ',		'www.netvouz.com');
+define('_MD_BOOKMARKS_LI_REDDIT',		'reddit.com');
 }
 // --- define language end ---
 ?>
