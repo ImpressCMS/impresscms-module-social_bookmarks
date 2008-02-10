@@ -24,7 +24,7 @@ else
 }
 
 $modversion['name'] = _MI_SOCIAL_BOOKMARKS_NAME.$name_ext;
-$modversion['version'] = 0.3;
+$modversion['version'] = 0.4;
 $modversion['description'] = _MI_SOCIAL_BOOKMARKS_DESC;
 $modversion['credits'] = '';
 $modversion['author']   = "Rene Sato | www.xoops-magazine.com";
