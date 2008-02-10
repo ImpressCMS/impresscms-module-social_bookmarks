@@ -48,6 +48,7 @@ define('_MD_BOOKMARKS_LI_GNOLIA',		'ma.gnolia.com');
 define('_MD_BOOKMARKS_LI_SMARKING',		'smarking.com');
 define('_MD_BOOKMARKS_LI_NET_VOUZ',		'www.netvouz.com');
 define('_MD_BOOKMARKS_LI_REDDIT',		'reddit.com');
+define('_MD_BOOKMARKS_LI_FACEBOOK',		'www.facebook.com');
 }
 // --- define language end ---
 ?>

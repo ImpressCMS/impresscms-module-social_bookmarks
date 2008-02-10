@@ -13,7 +13,11 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 Update: 09.02.2008 Version 0.4 Alpha
 
-- FIXED: reddit.com in english language files (sato-san)
+- FIXED: reddit.com in der englischen Sprachdatei hinzugefügt (sato-san)
+- FIXED: reddit.com in english language files added
+
+- Facebook Icons und Optionen hinzugefügt (sato-san)
+- Facebook Icons and Options added
 
 
 
