@@ -13,7 +13,10 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 Update: 09.02.2008 Version 0.4 Alpha
 
-- FIXED: social_bookmarks.php Zeile 46 der Debuger zeigte einen Hinweis zur Variable 'content' (sato-san
+- Brasilianische Sprachdateien hinzugefügt (thanks to Giba!)
+- pt-br language added
+
+- FIXED: social_bookmarks.php Zeile 46 der Debuger zeigte einen Hinweis zur Variable 'content' (sato-san)
 - FIXED: social_bookmarks.php line 46 Notice about an unknown variable 'content'
 
 - FIXED: reddit.com in der englischen Sprachdatei hinzugefügt (sato-san)
