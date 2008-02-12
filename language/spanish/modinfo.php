@@ -17,10 +17,10 @@ define('_MI_SOCIAL_BOOKMARKS_DESC','Muestra Marcadores Sociales en un bloque');
 
 define('_MB_SOCIAL_BOOKMARKS_NAME','Marcadores Sociales');
 define('_MB_SOCIAL_BOOKMARKS_DESC','Muestra los Marcadores Sociales que se selecciones en un bloque.');
-define('_SOCIAL_BOOKMARKS_HELP','Informaci¢n y Ayuda');
+define('_SOCIAL_BOOKMARKS_HELP','Información y Ayuda');
 
 define('_MD_BOOKMARKS_TEXT1','Enlazar a ');
-define('_MD_BOOKMARKS_TEXT2','¨Mostrar?');
+define('_MD_BOOKMARKS_TEXT2','¿Mostrar?');
 
 define('_MD_BOOKMARKS_LI_WONG',			'www.mister-wong.de');
 define('_MD_BOOKMARKS_LI_WEBNEWS',		'www.webnews.de');
@@ -48,6 +48,7 @@ define('_MD_BOOKMARKS_LI_BLINKBITS',	'www.blinkbits.com');
 define('_MD_BOOKMARKS_LI_GNOLIA',		'ma.gnolia.com');
 define('_MD_BOOKMARKS_LI_SMARKING',		'smarking.com');
 define('_MD_BOOKMARKS_LI_NET_VOUZ',		'www.netvouz.com');
+define('_MD_BOOKMARKS_LI_FACEBOOK',		'www.facebook.com');
 }
 // --- define language end ---
 ?>
