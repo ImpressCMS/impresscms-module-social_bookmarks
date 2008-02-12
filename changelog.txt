@@ -13,6 +13,9 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 Update: 09.02.2008 Version 0.4 Alpha
 
+- spanische Sprachdateien hinzugefügt (thanks to debianus!)
+- spanish language added
+
 - Brasilianische Sprachdateien hinzugefügt (thanks to Giba!)
 - pt-br language added
 
