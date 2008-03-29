@@ -11,7 +11,9 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 
 
-Update: 13.03.2008 Version 0.4 Alpha
+Update: 29.03.2008 Version 0.4 Alpha
+- Versionsanzeige im Adminbereich verbessert (sato-san)
+- Versionsnumber in the administartion improved
 
 - xHTML für img-Tag (sato-san)
 - xHTML for img-Tag

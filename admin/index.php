@@ -22,7 +22,7 @@ function Choice() {
 
     	OpenTable();
     	global $xoopsModule;
-  		echo "<strong>Social Bookmarks</strong> Version: 0." . $xoopsModule -> getVar( 'version' ) ."<br />";
+  		echo "<strong>Social Bookmarks</strong> Version: " . round($xoopsModule->getVar('version') / 100, 2) ."<br />";
   		echo " "._SOCIAL_BOOKMARKS_HELPTEXT1. "<br />" ;
 		echo " "._SOCIAL_BOOKMARKS_HELPTEXT2. "<br />" ;
 		echo " "._SOCIAL_BOOKMARKS_HELPTEXT3. "<br />" ;
