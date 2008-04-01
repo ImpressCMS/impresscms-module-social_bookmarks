@@ -10,10 +10,10 @@ include ('admin_header.php');
 
 $op = 'Choice';
 
-if ( isset($HTTP_POST_VARS['op']) ) {
-	$op = trim($HTTP_POST_VARS['op']);
-} elseif ( isset($HTTP_GET_VARS['op']) ) {
-	$op = trim($HTTP_GET_VARS['op']);
+if ( isset($_POST['op']) ) {
+	$op = trim($_POST['op']);
+} elseif ( isset($_GET['op']) ) {
+	$op = trim($_GET['op']);
 }
 
 function Choice() {
@@ -35,7 +35,7 @@ switch($op) {
 		Config();
 		break;
 	case "Save":
-		Save($cfgCounter, $HTTP_POST_VARS["cfgTitleIndex"], $HTTP_POST_VARS["cfgImageIndex"], $HTTP_POST_VARS["cfgTitleItem"], $HTTP_POST_VARS["cfgImageItem"], $HTTP_POST_VARS["topics_array"]);
+		Save($cfgCounter, $_POST["cfgTitleIndex"], $_POST["cfgImageIndex"], $_POST["cfgTitleItem"], $_POST["cfgImageItem"], $_POST["topics_array"]);
 		break;
 	default:
 		Choice();
