@@ -11,7 +11,16 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 
 
-Update: 29.03.2008 Version 0.4 Alpha
+Update: 15.05.2008 Version 0.4 RC
+- Icons für ImpressCMS hinzugefügt (sato-san)
+- Icons for ImpressCMS added
+
+- Link geändert in main.php + admin.php zu "impresscms.de" (sato-san)
+- Link changed in main.php + admin.php to "impresscms.de"
+
+- Sprachdateien geändert auf UTF-8 (sato-san)
+- language file changed to UTF-8
+
 - Versionsanzeige im Adminbereich verbessert (sato-san)
 - Versionsnumber in the administartion improved
 

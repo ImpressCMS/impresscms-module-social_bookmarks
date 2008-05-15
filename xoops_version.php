@@ -27,11 +27,13 @@ $modversion['name'] = _MI_SOCIAL_BOOKMARKS_NAME.$name_ext;
 $modversion['version'] = 0.4;
 $modversion['description'] = _MI_SOCIAL_BOOKMARKS_DESC;
 $modversion['credits'] = '';
-$modversion['author']   = "Rene Sato | www.xoops-magazine.com";
+$modversion['author']   = "Rene Sato | ImpressCMS.de";
 $modversion['help'] = '';
 $modversion['license'] = "GPL see LICENSE";
 $modversion['official'] = 1;
 $modversion['image']    = 'images/'.$SOCIAL_BOOKMARKS_DIRNAME.'_slogo.png';
+$modversion['iconsmall'] = "images/social_iconsmall.png";
+$modversion['iconbig'] = "images/social_iconbig.png";
 $modversion['dirname']  = $SOCIAL_BOOKMARKS_DIRNAME;
 
 // Admin
