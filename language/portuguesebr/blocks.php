@@ -11,7 +11,7 @@ if( !defined('SOCIAL_BOOKMARKS_LANG_MB_LOADED') )
 {
 define('SOCIAL_BOOKMARKS_LANG_MB_LOADED', 1);
 
-define('_SOCIAL_BOOKMARKS_SET_HELPINFO','O que é isto?');
+define('_SOCIAL_BOOKMARKS_SET_HELPINFO','O que Ã© isto?');
 define('_SOCIAL_BOOKMARKS_SET_BOOKMARK','bookmark em');
 }
 // --- define language end ---

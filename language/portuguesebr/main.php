@@ -11,11 +11,11 @@ if( !defined('SOCIAL_BOOKMARKS_LANG_MA_LOADED') )
 {
 define('SOCIAL_BOOKMARKS_LANG_MA_LOADED', 1);
 
-define('_SOCIAL_BOOKMARKS_NAME','Módulo Social Bookmarks');
-define('_SOCIAL_BOOKMARKS_SET_INFO1','<h2>Social Bookmarks</h2> Estão os seus endereços favoritos na Internet, usando o navegador de sua preferência irá encontrar os membros disponíveis e indexados por meio de um RSS feeds.
-<br />(Veja também: <a href="http://pt.wikipedia.org/wiki/Social_bookmarks" target="_blank" title="new window: Wikipedia">http://pt.wikipedia.org/wiki/Social_bookmarks</a>)');
+define('_SOCIAL_BOOKMARKS_NAME','MÃ³dulo Social Bookmarks');
+define('_SOCIAL_BOOKMARKS_SET_INFO1','<h2>Social Bookmarks</h2> EstÃ£o os seus endereÃ§os favoritos na Internet, usando o navegador de sua preferÃªncia irÃ¡ encontrar os membros disponÃ­veis e indexados por meio de um RSS feeds.
+<br />(Veja tambÃ©m: <a href="http://pt.wikipedia.org/wiki/Social_bookmarks" target="_blank" title="new window: Wikipedia">http://pt.wikipedia.org/wiki/Social_bookmarks</a>)');
 define('_SOCIAL_BOOKMARKS_SET_INFO2','<br /><br />');
-define('_SOCIAL_BOOKMARKS_SET_INFO3','<h4>Créditos</h4>');
+define('_SOCIAL_BOOKMARKS_SET_INFO3','<h4>CrÃ©ditos</h4>');
 define('_SOCIAL_BOOKMARKS_SET_INFO4','(c) 2007-2008 por <a href="http://www.xoops-magazine.com/index.php?campaign=social_bookmarks/de/frontend" target="_blank" title="new window: XOOPS-magazine.com">XOOPS-magazine.com</a>');
 }
 ?>
