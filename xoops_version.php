@@ -279,6 +279,14 @@ $modversion['config'][$i]['valuetype']	= 'int';
 $modversion['config'][$i]['default']	= 1;
 $modversion['config'][$i]['description']= '';
 
+$i++;
+$modversion['config'][$i]['name']		= 'book_ask';  // www.ask.com/
+$modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_ASK";
+$modversion['config'][$i]['formtype']	= 'yesno';
+$modversion['config'][$i]['valuetype']	= 'int';
+$modversion['config'][$i]['default']	= 1;
+$modversion['config'][$i]['description']= '';
+
 unset($i);
 
 ?>

@@ -12,6 +12,9 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 
 Update: 15.05.2008 Version 0.4 RC
+- Ask.com hinzugefügt (sato-san)
+- Ask.com added
+
 - Icons für ImpressCMS hinzugefügt (sato-san)
 - Icons for ImpressCMS added
 
