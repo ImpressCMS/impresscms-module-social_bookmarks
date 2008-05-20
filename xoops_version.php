@@ -25,9 +25,10 @@ else
 
 $modversion['name'] = _MI_SOCIAL_BOOKMARKS_NAME.$name_ext;
 $modversion['version'] = 0.4;
+$modversion['status'] = "RC";
 $modversion['description'] = _MI_SOCIAL_BOOKMARKS_DESC;
 $modversion['credits'] = '';
-$modversion['author']   = "Rene Sato | ImpressCMS.de";
+$modversion['author']   = "René Sato | ImpressCMS.de";
 $modversion['help'] = '';
 $modversion['license'] = "GPL see LICENSE";
 $modversion['official'] = 1;
@@ -35,7 +36,15 @@ $modversion['image']    = 'images/'.$SOCIAL_BOOKMARKS_DIRNAME.'_slogo.png';
 $modversion['iconsmall'] = "images/social_iconsmall.png";
 $modversion['iconbig'] = "images/social_iconbig.png";
 $modversion['dirname']  = $SOCIAL_BOOKMARKS_DIRNAME;
-
+$modversion['author_realname'] = "René Sato";
+$modversion['author_website_url'] = "http://www.impresscms.de";
+$modversion['author_website_name'] = "ImpressCMS.de";
+$modversion['author_email'] = "";
+$modversion['demo_site_url'] = "http://www.impresscms.info";
+$modversion['demo_site_name'] = "ImpressCMS.info";
+$modversion['support_site_url'] = "http://www.impresscms.de";
+$modversion['support_site_name'] = "ImpressCMS.de";
+$modversion['submit_bug'] = "http://www.impresscms.de/modules/newbb";
 // Admin
 $modversion['hasAdmin'] = 1;
 $modversion['adminindex'] = "admin/index.php";
