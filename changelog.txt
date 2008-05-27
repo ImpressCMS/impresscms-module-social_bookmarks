@@ -11,9 +11,12 @@ http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 
 
-Update: 15.05.2008 Version 0.4 RC
+Update: 15.05.2008 Version 0.4
 - Ask.com hinzugefügt (sato-san)
 - Ask.com added
+
+- Facebook Icons und Optionen hinzugefügt (sato-san)
+- Facebook Icons and Options added
 
 - Icons für ImpressCMS hinzugefügt (sato-san)
 - Icons for ImpressCMS added
@@ -22,7 +25,7 @@ Update: 15.05.2008 Version 0.4 RC
 - Link changed in main.php + admin.php to "impresscms.de"
 
 - Sprachdateien geändert auf UTF-8 (sato-san)
-- language file changed to UTF-8
+- language files changed to UTF-8
 
 - Versionsanzeige im Adminbereich verbessert (sato-san)
 - Versionsnumber in the administartion improved
@@ -36,15 +39,14 @@ Update: 15.05.2008 Version 0.4 RC
 - Brasilianische Sprachdateien hinzugefügt (thanks to Giba!)
 - pt-br language added
 
+- FIXED: Link zum folkd.com (thanks to McDonald)
+- Fixed: Link to folkd.com
+
 - FIXED: social_bookmarks.php Zeile 46 der Debuger zeigte einen Hinweis zur Variable 'content' (sato-san)
 - FIXED: social_bookmarks.php line 46 Notice about an unknown variable 'content'
 
 - FIXED: reddit.com in der englischen Sprachdatei hinzugefügt (sato-san)
 - FIXED: reddit.com in english language files added
-
-- Facebook Icons und Optionen hinzugefügt (sato-san)
-- Facebook Icons and Options added
-
 
 
 Update: 09.02.2008 Version 0.3

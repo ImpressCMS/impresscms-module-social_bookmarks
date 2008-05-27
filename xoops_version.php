@@ -25,7 +25,7 @@ else
 
 $modversion['name'] = _MI_SOCIAL_BOOKMARKS_NAME.$name_ext;
 $modversion['version'] = 0.4;
-$modversion['status'] = "RC";
+$modversion['status'] = "Final";
 $modversion['description'] = _MI_SOCIAL_BOOKMARKS_DESC;
 $modversion['credits'] = '';
 $modversion['author']   = "René Sato | ImpressCMS.de";
