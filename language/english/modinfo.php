@@ -16,6 +16,7 @@ define('_MI_SOCIAL_BOOKMARKS_DESC','Zeigt viele Social-Bookmarks im Block');
 
 define('_MB_SOCIAL_BOOKMARKS_NAME','social bookmarks');
 define('_MB_SOCIAL_BOOKMARKS_DESC','Show a many socail-bookmarks in a block');
+
 define('_SOCIAL_BOOKMARKS_HELP','Info and Help');
 
 define('_MD_BOOKMARKS_TEXT1','Link to ');
@@ -24,9 +25,10 @@ define('_MD_BOOKMARKS_TEXT2',' show?');
 define('_MD_BOOKMARKS_LI_WONG',			'www.mister-wong.de');
 define('_MD_BOOKMARKS_LI_WEBNEWS',		'www.webnews.de');
 define('_MD_BOOKMARKS_LI_ICIO_DE',		'www.icio.de');
-define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
-define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
 define('_MD_BOOKMARKS_LI_YIGG',			'yigg.de');
+define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
+define('_MD_BOOKMARKS_LI_NEWSIDER',		'www.newsider.de');
+define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
 define('_MD_BOOKMARKS_LI_LINKARENA',	'www.linkarena.com');
 define('_MD_BOOKMARKS_LI_DIGG',			'digg.com');
 define('_MD_BOOKMARKS_LI_ICIO_US',		'del.icio.us');

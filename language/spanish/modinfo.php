@@ -1,5 +1,4 @@
 <?php
-//Traducci�n por debianus. Reporte de errores y sugerencias: http://es.impresscms.org
 /**
 * $Id: modinfo.php 68 2008-02-09 17:10:51Z xoops-magazine $
 * Module: social-bookmarks
@@ -17,6 +16,7 @@ define('_MI_SOCIAL_BOOKMARKS_DESC','Muestra Marcadores Sociales en un bloque');
 
 define('_MB_SOCIAL_BOOKMARKS_NAME','Marcadores Sociales');
 define('_MB_SOCIAL_BOOKMARKS_DESC','Muestra los Marcadores Sociales que se selecciones en un bloque.');
+
 define('_SOCIAL_BOOKMARKS_HELP','Informaci�n y Ayuda');
 
 define('_MD_BOOKMARKS_TEXT1','Enlazar a ');
@@ -25,9 +25,10 @@ define('_MD_BOOKMARKS_TEXT2','�Mostrar?');
 define('_MD_BOOKMARKS_LI_WONG',			'www.mister-wong.de');
 define('_MD_BOOKMARKS_LI_WEBNEWS',		'www.webnews.de');
 define('_MD_BOOKMARKS_LI_ICIO_DE',		'www.icio.de');
-define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
-define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
 define('_MD_BOOKMARKS_LI_YIGG',			'yigg.de');
+define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
+define('_MD_BOOKMARKS_LI_NEWSIDER',		'www.newsider.de');
+define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
 define('_MD_BOOKMARKS_LI_LINKARENA',	'www.linkarena.com');
 define('_MD_BOOKMARKS_LI_DIGG',			'digg.com');
 define('_MD_BOOKMARKS_LI_ICIO_US',		'del.icio.us');

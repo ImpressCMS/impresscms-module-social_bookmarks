@@ -89,6 +89,14 @@ $modversion['config'][$i]['default']	= 1;
 $modversion['config'][$i]['description']= '';
 
 $i++;
+$modversion['config'][$i]['name']		= 'book_yigg';  // yigg.de/
+$modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_YIGG";
+$modversion['config'][$i]['formtype']	= 'yesno';
+$modversion['config'][$i]['valuetype']	= 'int';
+$modversion['config'][$i]['default']	= 1;
+$modversion['config'][$i]['description']= '';
+
+$i++;
 $modversion['config'][$i]['name']		= 'book_oneview';  // beta.oneview.de/
 $modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_ONEVIEW";
 $modversion['config'][$i]['formtype']	= 'yesno';
@@ -97,16 +105,16 @@ $modversion['config'][$i]['default']	= 1;
 $modversion['config'][$i]['description']= '';
 
 $i++;
-$modversion['config'][$i]['name']		= 'book_folkd';  // www.folkd.com/
-$modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_FOLKD";
+$modversion['config'][$i]['name']		= 'book_newsider';  // newsider.de/
+$modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_NEWSIDER";
 $modversion['config'][$i]['formtype']	= 'yesno';
 $modversion['config'][$i]['valuetype']	= 'int';
 $modversion['config'][$i]['default']	= 1;
 $modversion['config'][$i]['description']= '';
 
 $i++;
-$modversion['config'][$i]['name']		= 'book_yigg';  // yigg.de/
-$modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_YIGG";
+$modversion['config'][$i]['name']		= 'book_folkd';  // www.folkd.com/
+$modversion['config'][$i]['title']		= "_MD_BOOKMARKS_LI_FOLKD";
 $modversion['config'][$i]['formtype']	= 'yesno';
 $modversion['config'][$i]['valuetype']	= 'int';
 $modversion['config'][$i]['default']	= 1;
