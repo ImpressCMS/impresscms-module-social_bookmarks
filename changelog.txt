@@ -36,11 +36,14 @@ Update: 15.05.2008 Version 0.4
 - xHTML für img-Tag (sato-san)
 - xHTML for img-Tag
 
+- holländische Sprachdateien hinzugefügt (thanks mcdonald3072)
+- nederlands language added
+
 - spanische Sprachdateien hinzugefügt (thanks to debianus!)
 - spanish language added
 
-- Brasilianische Sprachdateien hinzugefügt (thanks to Giba!)
-- pt-br language added
+- brasilianische Sprachdateien hinzugefügt (thanks to Giba!)
+- portuguesebr added
 
 - FIXED: Link zum folkd.com (thanks to McDonald)
 - Fixed: Link to folkd.com
