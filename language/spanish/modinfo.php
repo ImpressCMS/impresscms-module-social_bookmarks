@@ -1,4 +1,5 @@
 <?php
+//Traducción por debianus. Reporte de errores y sugerencias: http://es.impresscms.org
 /**
 * $Id: modinfo.php 68 2008-02-09 17:10:51Z xoops-magazine $
 * Module: social-bookmarks
@@ -12,23 +13,21 @@ if( !defined('SOCIAL_BOOKMARKS_LANG_MI_LOADED') )
 define('SOCIAL_BOOKMARKS_LANG_MI_LOADED', 1);
 
 define('_MI_SOCIAL_BOOKMARKS_NAME','Marcadores Sociales');
-define('_MI_SOCIAL_BOOKMARKS_DESC','Muestra Marcadores Sociales en un bloque');
+define('_MI_SOCIAL_BOOKMARKS_DESC','Muestra marcadores sociales en un bloque');
 
 define('_MB_SOCIAL_BOOKMARKS_NAME','Marcadores Sociales');
-define('_MB_SOCIAL_BOOKMARKS_DESC','Muestra los Marcadores Sociales que se selecciones en un bloque.');
-
-define('_SOCIAL_BOOKMARKS_HELP','Informaci�n y Ayuda');
+define('_MB_SOCIAL_BOOKMARKS_DESC','Muestra los marcadores sociales que se selecciones en un bloque.');
+define('_SOCIAL_BOOKMARKS_HELP','Información y ayuda');
 
 define('_MD_BOOKMARKS_TEXT1','Enlazar a ');
-define('_MD_BOOKMARKS_TEXT2','�Mostrar?');
+define('_MD_BOOKMARKS_TEXT2','¿Mostrar?');
 
 define('_MD_BOOKMARKS_LI_WONG',			'www.mister-wong.de');
 define('_MD_BOOKMARKS_LI_WEBNEWS',		'www.webnews.de');
 define('_MD_BOOKMARKS_LI_ICIO_DE',		'www.icio.de');
-define('_MD_BOOKMARKS_LI_YIGG',			'yigg.de');
 define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
-define('_MD_BOOKMARKS_LI_NEWSIDER',		'www.newsider.de');
 define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
+define('_MD_BOOKMARKS_LI_YIGG',			'yigg.de');
 define('_MD_BOOKMARKS_LI_LINKARENA',	'www.linkarena.com');
 define('_MD_BOOKMARKS_LI_DIGG',			'digg.com');
 define('_MD_BOOKMARKS_LI_ICIO_US',		'del.icio.us');
@@ -50,7 +49,6 @@ define('_MD_BOOKMARKS_LI_GNOLIA',		'ma.gnolia.com');
 define('_MD_BOOKMARKS_LI_SMARKING',		'smarking.com');
 define('_MD_BOOKMARKS_LI_NET_VOUZ',		'www.netvouz.com');
 define('_MD_BOOKMARKS_LI_FACEBOOK',		'www.facebook.com');
-define('_MD_BOOKMARKS_LI_ASK',			'ask.com');
 }
 // --- define language end ---
 ?>
