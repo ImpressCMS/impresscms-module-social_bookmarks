@@ -9,7 +9,7 @@ Check for an new Version:
 http://www.ImpressCMS.de or http://www.xoops-magazine.com
 
 
-
+- changed: references to class/xoopsmodule.php to kernel/module.php (vaughan)
 
 Update: 15.05.2008 Version 0.4
 - newsider.de hinzugefügt (sato-san)

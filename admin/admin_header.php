@@ -6,7 +6,7 @@
 * Licence: GNU
 */
 include("../../../mainfile.php");
-include_once(XOOPS_ROOT_PATH."/class/xoopsmodule.php");
+require_once XOOPS_ROOT_PATH.'/kernel/module.php';
 include(XOOPS_ROOT_PATH."/include/cp_functions.php");
 if ( $xoopsUser ) {
 	$xoopsModule = XoopsModule::getByDirname("social_bookmarks");
