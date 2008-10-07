@@ -25,9 +25,10 @@ define('_MD_BOOKMARKS_TEXT2','¿Mostrar?');
 define('_MD_BOOKMARKS_LI_WONG',			'www.mister-wong.de');
 define('_MD_BOOKMARKS_LI_WEBNEWS',		'www.webnews.de');
 define('_MD_BOOKMARKS_LI_ICIO_DE',		'www.icio.de');
-define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
-define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
 define('_MD_BOOKMARKS_LI_YIGG',			'yigg.de');
+define('_MD_BOOKMARKS_LI_ONEVIEW',		'beta.oneview.de');
+define('_MD_BOOKMARKS_LI_NEWSIDER',		'www.newsider.de');
+define('_MD_BOOKMARKS_LI_FOLKD',		'www.folkd.com');
 define('_MD_BOOKMARKS_LI_LINKARENA',	'www.linkarena.com');
 define('_MD_BOOKMARKS_LI_DIGG',			'digg.com');
 define('_MD_BOOKMARKS_LI_ICIO_US',		'del.icio.us');
@@ -48,7 +49,9 @@ define('_MD_BOOKMARKS_LI_BLINKBITS',	'www.blinkbits.com');
 define('_MD_BOOKMARKS_LI_GNOLIA',		'ma.gnolia.com');
 define('_MD_BOOKMARKS_LI_SMARKING',		'smarking.com');
 define('_MD_BOOKMARKS_LI_NET_VOUZ',		'www.netvouz.com');
+define('_MD_BOOKMARKS_LI_REDDIT',		'reddit.com');
 define('_MD_BOOKMARKS_LI_FACEBOOK',		'www.facebook.com');
+define('_MD_BOOKMARKS_LI_ASK',			'ask.com');
 }
 // --- define language end ---
 ?>

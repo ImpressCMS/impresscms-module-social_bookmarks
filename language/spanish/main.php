@@ -17,6 +17,6 @@ define('_SOCIAL_BOOKMARKS_SET_INFO1','Los <h2>Marcadores Sociales</h2> (Social b
 <br />(see also: <a href="http://es.wikipedia.org/wiki/Marcadores_sociales" target="_blank" title="new window: Wikipedia">http://es.wikipedia.org/wiki/Marcadores_sociales</a>)');
 define('_SOCIAL_BOOKMARKS_SET_INFO2','<br /><br />');
 define('_SOCIAL_BOOKMARKS_SET_INFO3','<h4>Créditos</h4>');
-define('_SOCIAL_BOOKMARKS_SET_INFO4','(c) 2007-2008 by <a href="http://www.xoops-magazine.com/index.php?campaign=social_bookmarks/de/frontend" target="_blank" title="new window: XOOPS-magazine.com">XOOPS-magazine.com</a>');
+define('_SOCIAL_BOOKMARKS_SET_INFO4','(c) 2007-2008 by <a href="http://www.impresscms.de" target="_blank" title="new window: ImpressCMS.de">ImpressCMS.de</a>');
 }
 ?>
